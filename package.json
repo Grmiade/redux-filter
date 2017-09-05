@@ -1,0 +1,25 @@
+{
+  "name": "redux-filter",
+  "version": "1.0.0",
+  "description": "Higher Order Component using react-redux to filter collections ",
+  "main": "index.js",
+  "author": "Grmiade",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "16.0.5",
+    "prettier": "1.6.1",
+    "rollup": "0.49.2",
+    "rollup-plugin-typescript": "0.8.1",
+    "typescript": "2.5.2"
+  },
+  "dependencies": {
+    "immutable": "3.8.1",
+    "react": "15.6.1",
+    "react-redux": "5.0.6"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
